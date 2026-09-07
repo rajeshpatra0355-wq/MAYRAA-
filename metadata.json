@@ -1,0 +1,6 @@
+{
+  "name": "Myraa - AI Voice Companion",
+  "description": "Intelligent, warm, and natural conversational AI companion and voice assistant interacting via real-time audio-to-audio communication on mobile.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
